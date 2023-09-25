@@ -18,6 +18,10 @@
 
 <hr/>
 
+![Screenshot](readme_img/profile.webp)
+
+<hr/>
+
 <hr/>
 
 ![Screenshot](readme_img/forgot_password.webp)
