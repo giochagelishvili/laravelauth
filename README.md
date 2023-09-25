@@ -2,34 +2,34 @@
 <h1>Laravel Authentication App</h1>
 <h1>Preview: </h1>
 
-![Screenshot](readme-img/login.webp)
+![Screenshot](readme_img/login.webp)
 
 <hr/>
 
-![Screenshot](readme-img/register.webp)
+![Screenshot](readme_img/register.webp)
 
 <hr/>
 
-![Screenshot](readme-img/register_filled.webp)
+![Screenshot](readme_img/register_filled.webp)
 
 <hr/>
 
-![Screenshot](readme-img/dashboard.webp)
+![Screenshot](readme_img/dashboard.webp)
 
 <hr/>
 
-![Screenshot](readme-img/profile.webp)
+![Screenshot](readme_img/profile.webp)
 
 <hr/>
 
-![Screenshot](readme-img/forgot_password.webp)
+![Screenshot](readme_img/forgot_password.webp)
 
 <hr/>
 
-![Screenshot](readme-img/email.webp)
+![Screenshot](readme_img/email.webp)
 
 <hr/>
 
-![Screenshot](readme-img/password_reset.webp)
+![Screenshot](readme_img/password_reset.webp)
 
 <hr/>
