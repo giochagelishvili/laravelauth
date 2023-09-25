@@ -10,11 +10,12 @@
         @csrf
 
         <!-- Email Address -->
-        <div>
+        <div class="flex items-center gap-2 text-white border-b border-white px-2">
             <x-input-label for="email" :value="__('Email')" />
-            <x-text-input id="email" class="block mt-1 w-full" type="email" name="email" :value="old('email')" required autofocus />
-            <x-input-error :messages="$errors->get('email')" class="mt-2" />
+            <x-text-input placeholder="Email" id="email" class="block mt-1 w-full" type="email" name="email" :value="old('email')" required autofocus />
         </div>
+
+        <x-input-error :messages="$errors->get('email')" class="mt-2" />
 
         <div class="flex items-center justify-end mt-4">
             <x-primary-button>
