@@ -26,7 +26,7 @@
                 </a>
             </div>
 
-            <div class="w-full xl:w-1/4 xl:mt-12">
+            <div class="w-full xl:w-[28%] xl:mt-12">
                 {{ $slot }}
             </div>
         </div>
